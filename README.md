@@ -20,4 +20,4 @@ A feature-rich web application inspired by Airbnb, built to facilitate seamless 
 
 Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/WanderLust.git
+   git clone https://github.com/mdmunna84880/WanderLust
